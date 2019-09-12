@@ -12,4 +12,6 @@
 
 #### 问题反馈（扫一扫二维码）
 
-![image](https://github.com/wlaqtd/ret-team-basic-course/blob/master/images/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)
+
+
+<img src="https://github.com/wlaqtd/ret-team-basic-course/blob/master/images/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png" width="375" />
