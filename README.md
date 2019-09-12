@@ -14,4 +14,4 @@
 
 
 
-<img src="https://github.com/wlaqtd/ret-team-basic-course/blob/master/images/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png" width="260" />
+<img src="https://github.com/wlaqtd/ret-team-basic-course/blob/master/images/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png" width="520" />
